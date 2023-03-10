@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-notestest-staging-53537-authRole",
+      "UnauthRoleArn": "arn:aws:iam::353674382972:role/amplify-notestest-staging-53537-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::353674382972:role/amplify-notestest-staging-53537-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-notestest-staging-53537-deployment",
+      "UnauthRoleName": "amplify-notestest-staging-53537-unauthRole",
+      "StackName": "amplify-notestest-staging-53537",
+      "StackId": "arn:aws:cloudformation:us-east-1:353674382972:stack/amplify-notestest-staging-53537/638c3c70-bf05-11ed-9ceb-0a609f78aaab",
+      "AmplifyAppId": "d20gfqx5zw95an"
+    },
+    "categories": {
+      "auth": {
+        "NotesTest": {}
+      }
+    }
+  }
+}
